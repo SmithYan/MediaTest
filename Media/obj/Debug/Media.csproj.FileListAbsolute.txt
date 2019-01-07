@@ -1,0 +1,5 @@
+F:\Download\Media\bin\Debug\Media.dll
+F:\Download\Media\bin\Debug\Media.pdb
+F:\Download\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+F:\Download\Media\obj\Debug\Media.dll
+F:\Download\Media\obj\Debug\Media.pdb

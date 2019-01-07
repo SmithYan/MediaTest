@@ -1,0 +1,12 @@
+F:\Download\Media\Tests\bin\Debug\video.jpg
+F:\Download\Media\Tests\bin\Debug\bark.rtp
+F:\Download\Media\Tests\bin\Debug\Tests.exe.config
+F:\Download\Media\Tests\bin\Debug\Tests.exe
+F:\Download\Media\Tests\bin\Debug\Tests.pdb
+F:\Download\Media\Tests\bin\Debug\Media.dll
+F:\Download\Media\Tests\bin\Debug\Media.pdb
+F:\Download\Media\Tests\obj\x86\Debug\Tests.csprojAssemblyReference.cache
+F:\Download\Media\Tests\obj\x86\Debug\Tests.csproj.CoreCompileInputs.cache
+F:\Download\Media\Tests\obj\x86\Debug\Tests.csproj.CopyComplete
+F:\Download\Media\Tests\obj\x86\Debug\Tests.exe
+F:\Download\Media\Tests\obj\x86\Debug\Tests.pdb
